@@ -14,6 +14,6 @@ and also several formats:
 + (show signs of signed numbers)
 - (left padding)
 0 (padding blank with 0)
-# (displays 0x before hex numbers and 0 before octal numbers)
+#(displays 0x before hex numbers and 0 before octal numbers)
 
 it comes out as an archive (.a), which is compiled but not linked code. 
